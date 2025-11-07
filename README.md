@@ -2,7 +2,7 @@
 
 List of all my course certificates for my resume.
 
-## Certificados
+## Certificates
 
 1. [Microcontroller Embedded C Programming: Absolute Beginners](https://github.com/LTC-117/my_certificates/blob/main/certificates/Microcontroller-Embedded-C.pdf)
 2. [Crash Course Arduino and Microcontroller Development](https://github.com/LTC-117/my_certificates/blob/main/certificates/Crash-Course-Arduino.pdf)
